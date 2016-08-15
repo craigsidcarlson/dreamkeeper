@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">DreamKeeper</string>
+    <string name="action_settings">Settings</string>
+    <string name="speak">Speak</string>
+    <string name="set_alarm_btn">Set Alarm</string>
+    <string name="snooze">Snooze</string>
+    <string name="wake_up">Catch Dream</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

@@ -1,0 +1,6 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+    <item name="ic_alarm" type="drawable">@android:drawable/ic_lock_idle_alarm</item>
+    <item name="ic_dream" type="drawable">@android:drawable/ic_menu_day</item>
+    <item name="ic_save" type="drawable">@android:drawable/ic_menu_save</item>
+    <item name="ic_record" type="drawable">@android:drawable/ic_btn_speak_now</item>
+</resources>
